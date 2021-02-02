@@ -13,6 +13,15 @@ void wrong(std::string inputValue)
 
 int main()
 {
+    int x = 50;
+    int y = 10;
+
+    int c;
+
+    c = 50 / 10;
+
+    std::cout << "Hasilnya adalah =" << c;
+
     std::string inputValue;
 
     std::cout << "What Your Phone System? (Apple Or Android) : ";
